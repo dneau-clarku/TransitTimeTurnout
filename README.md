@@ -3,3 +3,4 @@ This the code used to get transit time in the Clark University Honor's Thesis: T
 
 In order to use the code a google maps api key is needed.
 
+See the LICENCE for Terms of Use information
